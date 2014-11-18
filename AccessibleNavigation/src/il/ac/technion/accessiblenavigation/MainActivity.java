@@ -5,7 +5,7 @@ import android.os.Bundle;
 import android.view.Menu;
 import android.view.MenuItem;
 
-//hi 2
+//hi 2 u tooooo :)
 
 public class MainActivity extends ActionBarActivity {
 
